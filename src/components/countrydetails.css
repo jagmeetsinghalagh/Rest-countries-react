@@ -1,0 +1,21 @@
+.country-details{
+    position: relative;
+    min-height: 960px;
+}
+
+.country-details .country {
+    position: absolute;
+    top: 15%;
+}
+
+.country-details .country-stats ul{
+    list-style-type: none;
+    display: grid;
+    grid-gap: 10px;
+}
+
+.country-details .border{
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid black;
+}

@@ -1,0 +1,11 @@
+.country-list .spinner-container {
+    width: 100%;
+    min-height: 960px;
+    position: relative;
+}
+
+.country-list .spinner-container .spinner-border {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
